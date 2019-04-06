@@ -4,8 +4,8 @@
   Contact: info@tatco.cc
   Done By: TATCO Inc.
   github : https://github.com/rabee2050/arduino-mkr1000
-  ios    :
-  Android:
+  iOS    : https://itunes.apple.com/us/app/mkr1000-kit/id1330616500?ls=1&mt=8
+  Android: https://play.google.com/store/apps/details?id=com.tatco.mkr1000
 
   Release Notes:
   - V1 Created 1 Jan 2018
