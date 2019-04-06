@@ -1,6 +1,6 @@
 /*
   Title  : Arduino MKR1000
-  version: V4.
+  version: V4.1
   Contact: info@tatco.cc
   Done By: TATCO Inc.
   github : https://github.com/rabee2050/arduino-mkr1000
